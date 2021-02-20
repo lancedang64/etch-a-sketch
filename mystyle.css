@@ -1,0 +1,16 @@
+#container {
+    display: grid;
+    grid-template-columns: repeat(16, 50px);
+    grid-template-rows: repeat(16, 50px);
+}
+
+#gridSquare {
+    border-style: solid;
+    border-width: thin;
+}
+
+button {
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+}
