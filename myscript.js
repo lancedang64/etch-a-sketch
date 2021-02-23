@@ -54,5 +54,3 @@ const RESET_GRID_BUTTON = document.querySelector("#resetGridButton");
 RESET_GRID_BUTTON.addEventListener("click", resetGrid);
 
 createNewGrid(16);
-
-//the problem now is that the grid layout is not dynamic, cant create squares everytime because the grid template is 16*16 by defaulft
