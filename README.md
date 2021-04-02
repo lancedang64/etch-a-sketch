@@ -2,7 +2,7 @@
 
     Introduction
 Hi, in this project I built a browser version of something between a sketchpad and an Etch-A-Sketch.
-Live preview at https://lancedang64.github.io/etch-a-sketch/
+Live preview at https://lancedang64.github.io/project_etch-a-sketch/
 
     Description
 On opening, the browser displays a 16x16 grid of squares.
