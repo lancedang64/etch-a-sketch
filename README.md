@@ -1,4 +1,4 @@
-# etch-a-sketch
+# Project etch-a-sketch
 
     Introduction
 Hi, in this project I built a browser version of something between a sketchpad and an Etch-A-Sketch.
